@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="Civic Stewardship Award medallion">
+  <rect width="240" height="240" rx="28" fill="#f7f3eb" />
+  <circle cx="120" cy="108" r="56" fill="#d9a441" stroke="#b38024" stroke-width="4" />
+  <polygon points="120,72 131,95 156,98 138,116 142,141 120,129 98,141 102,116 84,98 109,95" fill="#fff9eb" />
+  <path d="M96 158 L84 204 L120 186 L156 204 L144 158" fill="#435373" />
+</svg>

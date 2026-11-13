@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" role="img" aria-label="Neighborhood Seed Library wooden cabinet and labeled packets">
+  <rect width="800" height="500" fill="#f4efe6" />
+  <rect x="60" y="50" width="680" height="400" rx="20" fill="#e7decb" />
+  <rect x="110" y="90" width="260" height="320" rx="12" fill="#8b6b4a" />
+  <rect x="130" y="110" width="220" height="85" rx="6" fill="#f9f6f0" />
+  <rect x="130" y="208" width="220" height="85" rx="6" fill="#f9f6f0" />
+  <rect x="130" y="305" width="220" height="85" rx="6" fill="#f9f6f0" />
+  <circle cx="240" cy="152" r="8" fill="#5c442c" />
+  <circle cx="240" cy="250" r="8" fill="#5c442c" />
+  <circle cx="240" cy="348" r="8" fill="#5c442c" />
+  <rect x="420" y="110" width="270" height="180" rx="14" fill="#ffffff" stroke="#d5c8b4" stroke-width="3" />
+  <path d="M490 230 C490 180 540 150 560 150 C560 190 520 230 490 230 Z" fill="#4f7a5a" />
+  <path d="M560 230 C560 180 610 150 630 150 C630 190 590 230 560 230 Z" fill="#6b9675" />
+  <rect x="420" y="315" width="270" height="95" rx="12" fill="#dce5dc" />
+  <line x1="450" y1="350" x2="640" y2="350" stroke="#4f7a5a" stroke-width="6" stroke-linecap="round" />
+  <line x1="450" y1="378" x2="580" y2="378" stroke="#6b9675" stroke-width="6" stroke-linecap="round" />
+</svg>

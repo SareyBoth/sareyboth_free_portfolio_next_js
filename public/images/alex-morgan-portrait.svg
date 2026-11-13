@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" width="640" height="640" role="img" aria-label="Illustrated portrait of Alex Morgan">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f3efe6" />
+      <stop offset="100%" stop-color="#e3dcd0" />
+    </linearGradient>
+    <linearGradient id="coatGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#3c4f65" />
+      <stop offset="100%" stop-color="#283646" />
+    </linearGradient>
+  </defs>
+  <rect width="640" height="640" rx="48" fill="url(#bgGrad)" />
+  <circle cx="510" cy="130" r="76" fill="#d9cbb8" opacity="0.55" />
+  <circle cx="120" cy="500" r="110" fill="#c9d4c5" opacity="0.45" />
+  <!-- Shoulders & Jacket -->
+  <path d="M136 640 C146 486 226 436 320 436 C414 436 494 486 504 640 Z" fill="url(#coatGrad)" />
+  <!-- Collar & Shirt -->
+  <path d="M268 436 L320 526 L372 436 Z" fill="#f9f6f0" />
+  <path d="M242 444 L320 538 L286 568 L216 468 Z" fill="#2c3b4d" />
+  <path d="M398 444 L320 538 L354 568 L424 468 Z" fill="#2c3b4d" />
+  <!-- Neck -->
+  <rect x="286" y="362" width="68" height="96" rx="28" fill="#d8a484" />
+  <path d="M286 392 Q320 418 354 392 L354 430 L286 430 Z" fill="#c58f6f" opacity="0.45" />
+  <!-- Head -->
+  <rect x="234" y="182" width="172" height="214" rx="84" fill="#e2b191" />
+  <!-- Hair -->
+  <path d="M224 274 C218 190 264 148 326 148 C392 148 424 192 416 270 C406 232 384 206 346 202 C292 196 254 222 224 274 Z" fill="#2d2926" />
+  <!-- Eyebrows -->
+  <path d="M268 264 Q286 256 302 262" stroke="#2d2926" stroke-width="5" stroke-linecap="round" fill="none" />
+  <path d="M338 262 Q354 256 372 264" stroke="#2d2926" stroke-width="5" stroke-linecap="round" fill="none" />
+  <!-- Eyes -->
+  <circle cx="286" cy="284" r="6" fill="#2d2926" />
+  <circle cx="354" cy="284" r="6" fill="#2d2926" />
+  <!-- Glasses -->
+  <rect x="256" y="264" width="58" height="42" rx="12" fill="none" stroke="#5c4b3b" stroke-width="4" />
+  <rect x="326" y="264" width="58" height="42" rx="12" fill="none" stroke="#5c4b3b" stroke-width="4" />
+  <line x1="314" y1="282" x2="326" y2="282" stroke="#5c4b3b" stroke-width="4" />
+  <!-- Nose -->
+  <path d="M320 286 L314 322 L328 324" stroke="#bd8667" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  <!-- Warm Smile -->
+  <path d="M294 346 Q320 364 346 346" stroke="#8e5640" stroke-width="5" stroke-linecap="round" fill="none" />
+</svg>

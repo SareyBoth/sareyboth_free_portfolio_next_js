@@ -1,0 +1,233 @@
+@import "tailwindcss";
+
+:root,
+[data-preset="minimal"][data-mode="light"] {
+  --bg-page: #f9f8f5;
+  --bg-surface: #ffffff;
+  --bg-subtle: #f1efe9;
+  --bg-elevated: rgba(249, 248, 245, 0.9);
+  --text-primary: #18181b;
+  --text-secondary: #3b3b44;
+  --text-muted: #595965;
+  --border-subtle: #e2dfd7;
+  --border-strong: #c6c1b5;
+  --accent: #3d4f73;
+  --accent-hover: #2f3e5c;
+  --accent-contrast: #ffffff;
+  --accent-soft: #e8ecf4;
+  --accent-soft-text: #2a3854;
+  --focus-ring: #3d4f73;
+  color-scheme: light;
+}
+
+[data-preset="minimal"][data-mode="dark"] {
+  --bg-page: #121316;
+  --bg-surface: #1a1c21;
+  --bg-subtle: #23262d;
+  --bg-elevated: rgba(18, 19, 22, 0.9);
+  --text-primary: #f4f4f6;
+  --text-secondary: #d0d2d9;
+  --text-muted: #a0a4b2;
+  --border-subtle: #2c303a;
+  --border-strong: #434857;
+  --accent: #8ca4d4;
+  --accent-hover: #a5b9e0;
+  --accent-contrast: #111622;
+  --accent-soft: #222b3d;
+  --accent-soft-text: #c6d4f0;
+  --focus-ring: #8ca4d4;
+  color-scheme: dark;
+}
+
+[data-preset="warm"][data-mode="light"] {
+  --bg-page: #fbf6ee;
+  --bg-surface: #fffdf9;
+  --bg-subtle: #f3eadc;
+  --bg-elevated: rgba(251, 246, 238, 0.92);
+  --text-primary: #261b14;
+  --text-secondary: #4a392e;
+  --text-muted: #695345;
+  --border-subtle: #e5d8c5;
+  --border-strong: #cbb89e;
+  --accent: #a84b2f;
+  --accent-hover: #8c3c24;
+  --accent-contrast: #ffffff;
+  --accent-soft: #f6e4dc;
+  --accent-soft-text: #7a321c;
+  --focus-ring: #a84b2f;
+  color-scheme: light;
+}
+
+[data-preset="warm"][data-mode="dark"] {
+  --bg-page: #181310;
+  --bg-surface: #221b17;
+  --bg-subtle: #2d241f;
+  --bg-elevated: rgba(24, 19, 16, 0.92);
+  --text-primary: #f7efe6;
+  --text-secondary: #dccbc0;
+  --text-muted: #b5a092;
+  --border-subtle: #382d26;
+  --border-strong: #524238;
+  --accent: #e08668;
+  --accent-hover: #ea9d84;
+  --accent-contrast: #1e120d;
+  --accent-soft: #3a241d;
+  --accent-soft-text: #f3c4b4;
+  --focus-ring: #e08668;
+  color-scheme: dark;
+}
+
+[data-preset="modern"][data-mode="light"] {
+  --bg-page: #f4f7f9;
+  --bg-surface: #ffffff;
+  --bg-subtle: #e8eef2;
+  --bg-elevated: rgba(244, 247, 249, 0.9);
+  --text-primary: #0f172a;
+  --text-secondary: #334155;
+  --text-muted: #4b5c73;
+  --border-subtle: #d6e0e8;
+  --border-strong: #b4c5d4;
+  --accent: #0e6b6b;
+  --accent-hover: #0a5252;
+  --accent-contrast: #ffffff;
+  --accent-soft: #dff1f1;
+  --accent-soft-text: #094848;
+  --focus-ring: #0e6b6b;
+  color-scheme: light;
+}
+
+[data-preset="modern"][data-mode="dark"] {
+  --bg-page: #0d131a;
+  --bg-surface: #141d26;
+  --bg-subtle: #1c2834;
+  --bg-elevated: rgba(13, 19, 26, 0.9);
+  --text-primary: #f1f5f9;
+  --text-secondary: #cbd5e1;
+  --text-muted: #94a3b8;
+  --border-subtle: #243242;
+  --border-strong: #384d63;
+  --accent: #4fd1c5;
+  --accent-hover: #76e0d6;
+  --accent-contrast: #091e1d;
+  --accent-soft: #153438;
+  --accent-soft-text: #a9efe8;
+  --focus-ring: #4fd1c5;
+  color-scheme: dark;
+}
+
+:root,
+[data-font="sans"] {
+  --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+  --font-heading: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+}
+
+[data-font="serif"] {
+  --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+  --font-heading: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia,
+    "Times New Roman", serif;
+}
+
+:root,
+[data-density="comfortable"] {
+  --section-py: 4.5rem;
+  --card-pad: 1.5rem;
+  --grid-gap: 1.5rem;
+}
+
+[data-density="compact"] {
+  --section-py: 3rem;
+  --card-pad: 1.125rem;
+  --grid-gap: 1rem;
+}
+
+[data-density="spacious"] {
+  --section-py: 6rem;
+  --card-pad: 2rem;
+  --grid-gap: 2rem;
+}
+
+:root,
+[data-radius="subtle"] {
+  --radius-sm: 0.375rem;
+  --radius-md: 0.625rem;
+  --radius-lg: 0.875rem;
+  --radius-xl: 1.125rem;
+}
+
+[data-radius="sharp"] {
+  --radius-sm: 0.125rem;
+  --radius-md: 0.25rem;
+  --radius-lg: 0.375rem;
+  --radius-xl: 0.5rem;
+}
+
+[data-radius="rounded"] {
+  --radius-sm: 0.625rem;
+  --radius-md: 1rem;
+  --radius-lg: 1.375rem;
+  --radius-xl: 1.75rem;
+}
+
+html {
+  scroll-behavior: smooth;
+  background-color: var(--bg-page);
+  color: var(--text-primary);
+  font-family: var(--font-body);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+body {
+  background-color: var(--bg-page);
+  color: var(--text-primary);
+  font-family: var(--font-body);
+  overflow-x: hidden;
+}
+
+.sareyboth-theme-scope,
+.openfolio-theme-scope {
+  background-color: var(--bg-page);
+  color: var(--text-primary);
+  font-family: var(--font-body);
+}
+
+.font-heading {
+  font-family: var(--font-heading);
+}
+
+.section-anchor {
+  scroll-margin-top: 5.5rem;
+}
+
+.surface-card {
+  background-color: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-lg);
+  padding: var(--card-pad);
+}
+
+.subtle-card {
+  background-color: var(--bg-subtle);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+}
+
+:focus-visible {
+  outline: 2px solid var(--focus-ring);
+  outline-offset: 2px;
+}

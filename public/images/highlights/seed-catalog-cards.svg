@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" role="img" aria-label="Color-coded seed catalog cards organized by growing season">
+  <rect width="800" height="500" fill="#eef3ee" />
+  <rect x="90" y="80" width="190" height="340" rx="14" fill="#ffffff" stroke="#c8d6c9" stroke-width="3" />
+  <rect x="114" y="110" width="142" height="28" rx="6" fill="#4f7a5a" />
+  <line x1="114" y1="168" x2="230" y2="168" stroke="#90a896" stroke-width="6" stroke-linecap="round" />
+  <line x1="114" y1="196" x2="210" y2="196" stroke="#b8c9bc" stroke-width="6" stroke-linecap="round" />
+  <rect x="305" y="80" width="190" height="340" rx="14" fill="#ffffff" stroke="#c8d6c9" stroke-width="3" />
+  <rect x="329" y="110" width="142" height="28" rx="6" fill="#c97a4b" />
+  <line x1="329" y1="168" x2="445" y2="168" stroke="#d9a689" stroke-width="6" stroke-linecap="round" />
+  <line x1="329" y1="196" x2="425" y2="196" stroke="#ebd0c0" stroke-width="6" stroke-linecap="round" />
+  <rect x="520" y="80" width="190" height="340" rx="14" fill="#ffffff" stroke="#c8d6c9" stroke-width="3" />
+  <rect x="544" y="110" width="142" height="28" rx="6" fill="#486581" />
+  <line x1="544" y1="168" x2="660" y2="168" stroke="#8da2b8" stroke-width="6" stroke-linecap="round" />
+  <line x1="544" y1="196" x2="640" y2="196" stroke="#bcc9d6" stroke-width="6" stroke-linecap="round" />
+</svg>

@@ -1,0 +1,990 @@
+{
+  "schemaVersion": 1,
+  "site": {
+    "title": "SareyBoth — SareyBothPortfolio",
+    "description": "Personal portfolio for SareyBoth, showcasing community initiatives, archival projects, collaborative workshops, and field notes.",
+    "siteUrl": "https://sareybothportfolio.example.com",
+    "locale": "en-US",
+    "socialImage": {
+      "src": "/images/social-card.svg",
+      "alt": "SareyBoth — SareyBothPortfolio card",
+      "width": 1200,
+      "height": 630
+    },
+    "indexable": false
+  },
+  "profile": {
+    "name": "SareyBoth",
+    "descriptor": "Community Program Coordinator, Archival Researcher & Field Workshop Facilitator",
+    "introduction": "I organize neighborhood learning initiatives, document local history, and design practical guides that help people share tools, stories, and outdoor spaces. (Sample profile for the SareyBothPortfolio template.)",
+    "biography": [
+      "Over the past several years, my work has centered on practical ways neighbors can learn from one another—whether through a lending cabinet of heirloom seeds, an oral history booth at the weekend market, or an illustrated repair handbook.",
+      "I enjoy bridging careful research with welcoming, hands-on gatherings. When a topic feels intimidating at first, a clear worksheet, a patient conversation, and a shared table usually make it approachable.",
+      "Outside of organized programs, I spend my mornings walking local creek trails with a pocket sketchbook, binding small linen notebooks, and testing seasonal preservation recipes."
+    ],
+    "values": [
+      {
+        "title": "Clear, Welcoming Documentation",
+        "description": "Writing plain-language guides so newcomers can participate without needing prior background knowledge."
+      },
+      {
+        "title": "Shared Stewardship",
+        "description": "Designing programs with rotating volunteer roles and open records so initiatives outlast any single organizer."
+      },
+      {
+        "title": "Tactile Learning",
+        "description": "Pairing printed reference cards, physical tools, and unhurried conversation to support different learning styles."
+      }
+    ],
+    "quickFacts": [
+      {
+        "label": "Focus Areas",
+        "value": "Public workshops, oral history, accessible field guides"
+      },
+      {
+        "label": "Current Focus",
+        "value": "Cataloging neighborhood audio interviews & seasonal seed saving"
+      },
+      {
+        "label": "Languages",
+        "value": "English (Native), Spanish (Conversational)"
+      },
+      {
+        "label": "Profile Note",
+        "value": "Sample data for the SareyBothPortfolio template"
+      }
+    ],
+    "portrait": {
+      "src": "/images/sareyboth-portrait.svg",
+      "alt": "Illustrated portrait of SareyBoth wearing glasses and a slate jacket",
+      "width": 640,
+      "height": 640
+    },
+    "location": "Portland, OR",
+    "availability": "Available for community workshops, archival consulting, and seasonal collaborations",
+    "resumeUrl": "/documents/sareyboth-resume.pdf",
+    "contactEmail": "sareyboth@example.com",
+    "primaryCta": {
+      "label": "Explore My Highlights",
+      "href": "#highlights"
+    },
+    "secondaryCta": {
+      "label": "Contact Me",
+      "href": "#contact"
+    },
+    "socialLinks": [
+      {
+        "platform": "LinkedIn",
+        "label": "SareyBoth on LinkedIn",
+        "url": "https://www.linkedin.com/in/sareyboth"
+      },
+      {
+        "platform": "Are.na",
+        "label": "SareyBoth research channels on Are.na",
+        "url": "https://www.arena.com/sareyboth"
+      },
+      {
+        "platform": "ORCID",
+        "label": "SareyBoth archival index on ORCID",
+        "url": "https://orcid.org/0000-0002-1825-0097"
+      },
+      {
+        "platform": "Mastodon",
+        "label": "Unconfigured optional social link",
+        "url": ""
+      }
+    ]
+  },
+  "appearance": {
+    "defaultPreset": "minimal",
+    "defaultMode": "system",
+    "fontPreset": "sans",
+    "density": "comfortable",
+    "radius": "subtle"
+  },
+  "sections": [
+    {
+      "id": "home",
+      "title": "Introduction",
+      "navLabel": "Home",
+      "enabled": true,
+      "order": 10
+    },
+    {
+      "id": "about",
+      "title": "About",
+      "navLabel": "About",
+      "subtitle": "Background, guiding principles, and the themes that connect my projects.",
+      "enabled": true,
+      "order": 20
+    },
+    {
+      "id": "strengths",
+      "title": "Skills & Strengths",
+      "navLabel": "Strengths",
+      "subtitle": "Capabilities, methods, and everyday tools I bring to collaborative work.",
+      "enabled": true,
+      "order": 30
+    },
+    {
+      "id": "highlights",
+      "title": "Featured Highlights",
+      "navLabel": "Highlights",
+      "subtitle": "Selected initiatives, learning milestones, and public resources.",
+      "enabled": true,
+      "order": 40
+    },
+    {
+      "id": "journey",
+      "title": "My Journey",
+      "navLabel": "Journey",
+      "subtitle": "A timeline of roles, volunteer stewardship, education, and personal milestones.",
+      "enabled": true,
+      "order": 50
+    },
+    {
+      "id": "achievements",
+      "title": "Achievements",
+      "navLabel": "Achievements",
+      "subtitle": "Recognitions, certificates, and completed training milestones.",
+      "enabled": true,
+      "order": 60
+    },
+    {
+      "id": "testimonials",
+      "title": "Testimonials",
+      "navLabel": "Testimonials",
+      "subtitle": "Sample reflections from collaborators and workshop participants.",
+      "enabled": true,
+      "order": 70
+    },
+    {
+      "id": "services",
+      "title": "Services & Collaboration",
+      "navLabel": "Services",
+      "subtitle": "Ways we can work together on community programs, documentation, or workshops.",
+      "enabled": false,
+      "order": 80
+    },
+    {
+      "id": "journal",
+      "title": "Journal",
+      "navLabel": "Journal",
+      "subtitle": "Notes on facilitating workshops, cataloging local history, and seasonal routines.",
+      "enabled": false,
+      "order": 90
+    },
+    {
+      "id": "interests",
+      "title": "Interests",
+      "navLabel": "Interests",
+      "subtitle": "Ongoing curiosities and hands-on pastimes outside of formal projects.",
+      "enabled": false,
+      "order": 100
+    },
+    {
+      "id": "gallery",
+      "title": "Gallery",
+      "navLabel": "Gallery",
+      "subtitle": "Visual snapshots from field notebooks, workshop tables, and herbarium pressings.",
+      "enabled": false,
+      "order": 110
+    },
+    {
+      "id": "resume",
+      "title": "Resume",
+      "navLabel": "Resume",
+      "subtitle": "Download a printable summary of experience, education, and community roles.",
+      "enabled": false,
+      "order": 120
+    },
+    {
+      "id": "contact",
+      "title": "Contact",
+      "navLabel": "Contact",
+      "subtitle": "Reach out about a workshop, archival question, or neighborhood collaboration.",
+      "enabled": true,
+      "order": 130
+    }
+  ],
+  "strengths": [
+    {
+      "id": "program-facilitation",
+      "category": "Facilitation & Coordination",
+      "description": "Planning inclusive gatherings and keeping multi-partner initiatives organized.",
+      "items": [
+        "Workshop Curriculum Design",
+        "Volunteer Onboarding",
+        "Small-Group Facilitation",
+        "Event Logistics & Scheduling",
+        "Community Partner Outreach"
+      ]
+    },
+    {
+      "id": "research-archiving",
+      "category": "Research & Documentation",
+      "description": "Gathering, organizing, and preserving stories and practical reference materials.",
+      "items": [
+        "Oral History Interviewing",
+        "Archival Cataloging",
+        "Plain-Language Field Guides",
+        "Qualitative Synthesis",
+        "Transcription & Indexing"
+      ]
+    },
+    {
+      "id": "tools-materials",
+      "category": "Everyday Tools & Media",
+      "description": "Analog and digital instruments used for recording, layout, and mapping.",
+      "items": [
+        "Field Audio Recorders",
+        "Print Zine & Booklet Layout",
+        "Trail Grade Surveying",
+        "Herbarium Pressing",
+        "Coptic Bookbinding"
+      ]
+    },
+    {
+      "id": "languages-communication",
+      "category": "Languages & Communication",
+      "description": "Spoken and written communication across diverse neighborhood groups.",
+      "items": [
+        "English (Native)",
+        "Spanish (Conversational)",
+        "Public Speaking",
+        "Grant & Proposal Writing"
+      ]
+    }
+  ],
+  "highlights": [
+    {
+      "slug": "neighborhood-seed-library",
+      "title": "Neighborhood Seed Library & Seasonal Growing Guide",
+      "summary": "Co-created a self-serve wooden seed cabinet and color-coded planting cards Hosted at three branch libraries.",
+      "category": "Community Activity",
+      "published": true,
+      "featured": true,
+      "date": "2025-04",
+      "roleOrContribution": "Program co-organizer, planting card writer, and volunteer coordinator",
+      "context": "Local gardeners wanted a simple way to exchange regionally adapted vegetable and native pollinator seeds without requiring membership fees or complex check-out software.",
+      "outcomes": [
+        "Installed weather-tight seed cabinets across three neighborhood library branches.",
+        "Published a 24-card bilingual seasonal planting index for first-time balcony and yard growers.",
+        "Coordinated 14 recurring volunteers for autumn seed-cleaning and envelope-packing sessions."
+      ],
+      "tags": [
+        "Community Stewardship",
+        "Public Library",
+        "Print Guide",
+        "Workshops"
+      ],
+      "coverImage": {
+        "src": "/images/highlights/neighborhood-seed-library.svg",
+        "alt": "Neighborhood Seed Library wooden cabinet and labeled packets",
+        "width": 800,
+        "height": 500
+      },
+      "gallery": [
+        {
+          "src": "/images/highlights/seed-catalog-cards.svg",
+          "alt": "Color-coded seed catalog cards organized by growing season",
+          "caption": "Three-tier difficulty cards help visitors pick varieties suited to pots, raised beds, or shaded patios.",
+          "width": 800,
+          "height": 500
+        },
+        {
+          "src": "/images/highlights/seed-workshop-table.svg",
+          "alt": "Seed sorting workshop table with glass jars and paper envelopes",
+          "caption": "Monthly sorting tables bring together experienced savers and curious neighbors.",
+          "width": 800,
+          "height": 500
+        }
+      ],
+      "externalLinks": [
+        {
+          "label": "Sample Seed Library Overview (Example Link)",
+          "url": "https://example.com/seed-library-guide"
+        }
+      ],
+      "relatedSlugs": [
+        "accessible-creek-trail-guide",
+        "weekend-repair-cafe-handbook"
+      ],
+      "body": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Starting with a Single Repurposed Card Catalog"
+        },
+        {
+          "type": "paragraph",
+          "text": "The idea began when a retired librarian offered an unused 15-drawer oak index cabinet. Rather than tracking individual borrowers, we designed the cabinet around trust and clarity: anyone could take up to five packets in the spring and return harvested seeds in labeled envelopes at the end of the season."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "How We Structured the Reference Cards"
+        },
+        {
+          "type": "paragraph",
+          "text": "Early feedback showed that newcomers felt unsure about which seeds could thrive in small containers versus open garden beds. We grouped the drawers into three clear categories and printed durable divider cards with sowing depth, sun needs, and harvest notes."
+        },
+        {
+          "type": "list",
+          "style": "unordered",
+          "items": [
+            "Green stripe: Easy container and windowsill varieties (lettuce, bush beans, radishes, calendula).",
+            "Terracotta stripe: Mid-season garden staples with straightforward seed saving (tomatoes, peas, peppers).",
+            "Slate stripe: Biennial crops and native perennials requiring cross-pollination awareness."
+          ]
+        },
+        {
+          "type": "quote",
+          "text": "Having a five-sentence card right inside the drawer took away all the guesswork for my first balcony planter box.",
+          "attribution": "Workshop participant (Sample quote)"
+        },
+        {
+          "type": "image",
+          "src": "/images/highlights/seed-catalog-cards.svg",
+          "alt": "Color-coded seed catalog cards organized by growing season",
+          "caption": "Divider cards use both color bands and clear typography for quick browsing.",
+          "width": 800,
+          "height": 500
+        }
+      ]
+    },
+    {
+      "slug": "riverfront-oral-history-archive",
+      "title": "Riverfront Oral History Listening Archive",
+      "summary": "Recorded, transcribed, and indexed 28 conversational interviews with longtime riverfront residents and dock workers.",
+      "category": "Collaboration",
+      "published": true,
+      "featured": true,
+      "date": "2024-11",
+      "roleOrContribution": "Lead interviewer, audio archivist, and exhibition co-curator",
+      "context": "As former industrial riverfront blocks transitioned into public parks, the local historical society wanted to preserve firsthand memories of everyday life along the working waterfront.",
+      "outcomes": [
+        "Collected 28 full-length audio interviews with signed public-archive release forms.",
+        "Created time-stamped transcripts and a subject index covering 1955 through 2010.",
+        "Set up a two-headphone listening station at the community center's autumn heritage week."
+      ],
+      "tags": [
+        "Oral History",
+        "Audio Archiving",
+        "Transcription",
+        "Public History"
+      ],
+      "coverImage": {
+        "src": "/images/highlights/oral-history-archive.svg",
+        "alt": "Audio waveform and archival index cards for the Riverfront Oral History project",
+        "width": 800,
+        "height": 500
+      },
+      "gallery": [
+        {
+          "src": "/images/highlights/oral-history-booth.svg",
+          "alt": "Portable recording setup with two microphones and interview prompt cards",
+          "caption": "A compact two-microphone kit allowed us to record in kitchens, boat sheds, and library study rooms.",
+          "width": 800,
+          "height": 500
+        }
+      ],
+      "externalLinks": [
+        {
+          "label": "Sample Archival Index Format (Example Link)",
+          "url": "https://example.com/oral-history-index"
+        }
+      ],
+      "relatedSlugs": [
+        "neighborhood-seed-library",
+        "accessible-creek-trail-guide"
+      ],
+      "body": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Designing Unhurried Conversations"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rather than arriving with a rigid questionnaire, we mailed participants a postcard of historic riverfront maps a week before each session. Holding a physical map sparked immediate, specific stories about ferry crossings, seasonal floods, and neighborhood bakeries."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Archival Workflow"
+        },
+        {
+          "type": "list",
+          "style": "ordered",
+          "items": [
+            "Pre-interview coffee chat to explain consent options and review old photographs.",
+            "Uncompressed WAV recording using dual cardioid microphones in quiet home settings.",
+            "Full human-reviewed transcript paired with a 3-minute thematic audio excerpt.",
+            "Deposit of archival master files and printed transcripts with the county library."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "accessible-creek-trail-guide",
+      "title": "Accessible Creek Trail Pocket Guide",
+      "summary": "Surveyed five local watershed paths to document surface types, slope grades, seating intervals, and transit stops.",
+      "category": "Public Resource",
+      "published": true,
+      "featured": true,
+      "date": "2024-06",
+      "roleOrContribution": "Field surveyor, cartographic illustrator, and layout editor",
+      "context": "Standard park maps listed trail mileage but omitted practical accessibility details needed by stroller users, mobility-aid users, and walkers seeking frequent rest benches.",
+      "outcomes": [
+        "Measured surface width, cross-slope, and bench spacing across 11.5 miles of urban trails.",
+        "Produced a foldable print brochure and screen-reader-friendly web table.",
+        "Distributed 600 copies through senior centers, physical therapy clinics, and trailhead kiosks."
+      ],
+      "tags": [
+        "Accessibility",
+        "Field Survey",
+        "Wayfinding",
+        "Cartography"
+      ],
+      "coverImage": {
+        "src": "/images/highlights/accessible-trail-guide.svg",
+        "alt": "Topographic map and trail accessibility markers",
+        "width": 800,
+        "height": 500
+      },
+      "gallery": [
+        {
+          "src": "/images/highlights/trail-elevation-map.svg",
+          "alt": "Trail grade and rest bench interval diagram",
+          "caption": "Elevation profiles call out exact distances between shaded benches and paved pull-outs.",
+          "width": 800,
+          "height": 500
+        }
+      ],
+      "relatedSlugs": [
+        "neighborhood-seed-library",
+        "riverfront-oral-history-archive"
+      ],
+      "body": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Measuring What Actually Matters on the Ground"
+        },
+        {
+          "type": "paragraph",
+          "text": "Working alongside four neighborhood volunteers with different mobility devices, we walked each trail segment with a measuring wheel, digital level, and notebook. Instead of labeling a path simply 'easy' or 'moderate,' we recorded concrete observations so visitors could decide for themselves."
+        },
+        {
+          "type": "list",
+          "style": "unordered",
+          "items": [
+            "Surface composition: compacted crushed granite, boardwalk planks, or smooth asphalt.",
+            "Maximum sustained grade over 50-foot sections.",
+            "Exact distance in feet between benches with backrests.",
+            "Curb-cut alignment at the nearest bus stop and parking area."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "weekend-repair-cafe-handbook",
+      "title": "Weekend Repair Cafe Volunteer Handbook",
+      "summary": "Compiled a practical intake and safety manual for a monthly pop-up event fixing small appliances, bicycles, and garments.",
+      "category": "Community Activity",
+      "published": true,
+      "featured": false,
+      "date": "2023-10",
+      "roleOrContribution": "Handbook author and intake desk coordinator",
+      "context": "Our monthly repair gathering grew from five fixers to twenty, creating a need for consistent safety checks, spare-part checklists, and friendly visitor expectations.",
+      "outcomes": [
+        "Standardized electrical safety checklists and clear house rules for collaborative repair.",
+        "Reduced visitor wait-time confusion by introducing a simple visual triage board.",
+        "Shared the handbook under an open license for three neighboring town chapters."
+      ],
+      "tags": [
+        "Repair Culture",
+        "Volunteer Operations",
+        "Handbook",
+        "Sustainability"
+      ],
+      "coverImage": {
+        "src": "/images/highlights/repair-cafe-handbook.svg",
+        "alt": "Illustrated handbook and hand tools for community repair cafe",
+        "width": 800,
+        "height": 500
+      },
+      "relatedSlugs": [
+        "neighborhood-seed-library",
+        "seasonal-fermentation-field-notes"
+      ],
+      "body": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Turning Repair into a Shared Learning Moment"
+        },
+        {
+          "type": "paragraph",
+          "text": "The goal of a community repair table isn't drop-off servicing—it's sitting beside a neighbor to open a toaster or mend a jacket seam together. The handbook gives volunteers simple prompts to explain diagnostic steps clearly and safely."
+        }
+      ]
+    },
+    {
+      "slug": "seasonal-fermentation-field-notes",
+      "title": "Seasonal Preservation & Fermentation Study Group",
+      "summary": "Documented a year-long personal learning milestone testing small-batch vegetable fermentation and salt-ratio logs.",
+      "category": "Learning Milestone",
+      "published": true,
+      "featured": false,
+      "date": "2023-03",
+      "roleOrContribution": "Independent learner and study-group note keeper",
+      "context": "Set a personal goal to learn traditional lacto-fermentation methods across four seasons using surplus produce from the neighborhood farm stand.",
+      "outcomes": [
+        "Logged 36 small-batch trials with precise weight, brine percentage, and ambient temperature notes.",
+        "Hosted a casual autumn tasting and recipe swap for twelve neighbors.",
+        "Bound a hand-stitched kitchen reference booklet of reliable ratios."
+      ],
+      "tags": [
+        "Personal Initiative",
+        "Food Preservation",
+        "Field Notes",
+        "Study Group"
+      ],
+      "coverImage": {
+        "src": "/images/highlights/seasonal-fermentation-notes.svg",
+        "alt": "Seasonal preservation jars and handwritten tasting log",
+        "width": 800,
+        "height": 500
+      },
+      "relatedSlugs": [
+        "neighborhood-seed-library",
+        "weekend-repair-cafe-handbook"
+      ],
+      "body": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Keeping a Repeatable Kitchen Log"
+        },
+        {
+          "type": "paragraph",
+          "text": "By tracking gram weights, salt percentages by total weight, and kitchen shelf temperatures, even unexpected textures became useful data points for the next batch."
+        }
+      ]
+    },
+    {
+      "slug": "upcoming-winter-seed-swap-notes",
+      "title": "Draft: Winter Seed Swap Planning Checklist",
+      "summary": "Unpublished working draft for the upcoming winter seed exchange.",
+      "category": "Community Activity",
+      "published": false,
+      "date": "2026-01",
+      "roleOrContribution": "Draft author",
+      "context": "Internal planning draft not intended for public listing.",
+      "outcomes": [
+        "Drafting table layout."
+      ],
+      "tags": [
+        "Draft"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "This item is marked published: false to verify that unpublished highlights never appear in listings, detail routes, or sitemaps."
+        }
+      ]
+    }
+  ],
+  "journey": [
+    {
+      "id": "community-program-coordinator",
+      "type": "employment",
+      "title": "Community Program Coordinator",
+      "organization": "Eastside Neighborhood Commons",
+      "location": "Portland, OR",
+      "startDate": "2023-05",
+      "endDate": "Present",
+      "description": "Coordinate public workshops, tool-lending hours, and seasonal neighborhood exchanges across three community spaces.",
+      "highlights": [
+        "Facilitate monthly calendar planning with 25 volunteer stewards.",
+        "Write accessible orientation guides and safety checklists for shared workshop rooms."
+      ]
+    },
+    {
+      "id": "oral-history-project-fellow",
+      "type": "volunteering",
+      "title": "Oral History Project Coordinator",
+      "organization": "Riverfront Heritage Collective",
+      "location": "Portland, OR",
+      "startDate": "2022-09",
+      "endDate": "2024-11",
+      "description": "Led volunteer interview teams documenting neighborhood stories, local trades, and ecological changes along the river.",
+      "highlights": [
+        "Trained 10 community interviewers in audio recording and archival consent practices."
+      ]
+    },
+    {
+      "id": "archival-studies-certificate",
+      "type": "course",
+      "title": "Certificate in Community Archives & Digital Preservation",
+      "organization": "Pacific Northwest Continuing Education Institute",
+      "location": "Hybrid / Seattle, WA",
+      "startDate": "2022",
+      "endDate": "2022",
+      "description": "Completed intensive coursework in metadata standards, audio preservation, and ethical community archiving."
+    },
+    {
+      "id": "library-outreach-associate",
+      "type": "employment",
+      "title": "Public Programs & Outreach Associate",
+      "organization": "Cedar County Public Library System",
+      "location": "Eugene, OR",
+      "startDate": "2019-06",
+      "endDate": "2023-04",
+      "description": "Supported adult learning series, local history nights, and mobile book-bike pop-ups at neighborhood parks."
+    },
+    {
+      "id": "ba-geography-humanities",
+      "type": "education",
+      "title": "B.A. in Cultural Geography & Public Humanities",
+      "organization": "Willamette Valley State University",
+      "location": "Eugene, OR",
+      "startDate": "2015-09",
+      "endDate": "2019-05",
+      "description": "Focused on participatory mapping, local history documentation, and environmental interpretation."
+    }
+  ],
+  "achievements": [
+    {
+      "id": "civic-stewardship-recognition",
+      "title": "Neighborhood Civic Stewardship Recognition",
+      "issuer": "City Office of Neighborhood Involvement",
+      "date": "2025-05",
+      "description": "Recognized for co-developing the multi-branch Neighborhood Seed Library and open planting card system.",
+      "image": {
+        "src": "/images/achievements/civic-stewardship-award.svg",
+        "alt": "Civic Stewardship Award medallion",
+        "width": 240,
+        "height": 240
+      },
+      "verificationUrl": "https://example.com/awards/civic-stewardship-2025"
+    },
+    {
+      "id": "oral-history-summer-institute",
+      "title": "Oral History Field Recording Intensive",
+      "issuer": "Regional Folklore & History Network",
+      "date": "2023-08",
+      "description": "40-hour practical certification in acoustic field recording, interview ethics, and long-term digital storage."
+    },
+    {
+      "id": "wilderness-first-aid",
+      "title": "Wilderness & Trail Group First Aid Certification",
+      "issuer": "Outdoor Safety Council",
+      "date": "2024",
+      "description": "Completed field safety and group accessibility preparedness training for leading public watershed walks."
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "sample-testimonial-elena",
+      "quote": "SareyBoth has a rare gift for turning a complicated room setup into a calm, welcoming workshop where every neighbor feels comfortable asking questions.",
+      "name": "Elena Rostova",
+      "relationship": "Branch Librarian & Seed Cabinet Partner (Sample Testimonial)",
+      "avatar": {
+        "src": "/images/avatars/elena-rodriguez.svg",
+        "alt": "Illustrated avatar for Elena Rostova",
+        "width": 160,
+        "height": 160
+      },
+      "isSample": true
+    },
+    {
+      "id": "sample-testimonial-marcus",
+      "quote": "The trail accessibility guide SareyBoth coordinated is the first map our walking club checks before planning a weekend outing.",
+      "name": "Marcus Vance",
+      "relationship": "Watershed Walking Group Organizer (Sample Testimonial)",
+      "avatar": {
+        "src": "/images/avatars/marcus-vance.svg",
+        "alt": "Illustrated avatar for Marcus Vance",
+        "width": 160,
+        "height": 160
+      },
+      "isSample": true
+    },
+    {
+      "id": "sample-testimonial-priya",
+      "quote": "Our volunteer repair tables run smoothly because SareyBoth documented the intake flow with patience, humor, and crystal-clear checklists.",
+      "name": "Priya Nair",
+      "relationship": "Repair Cafe Volunteer Fixer (Sample Testimonial)",
+      "avatar": {
+        "src": "/images/avatars/priya-nair.svg",
+        "alt": "Illustrated avatar for Priya Nair",
+        "width": 160,
+        "height": 160
+      },
+      "isSample": true
+    }
+  ],
+  "services": [
+    {
+      "id": "workshop-design-facilitation",
+      "title": "Workshop Design & Facilitation",
+      "description": "Planning and hosting hands-on learning sessions for libraries, community centers, and local organizations.",
+      "deliverables": [
+        "Run-of-show schedule & materials list",
+        "Printable participant reference cards",
+        "On-site facilitation for groups of 8 to 40"
+      ],
+      "ctaLabel": "Inquire About a Workshop"
+    },
+    {
+      "id": "oral-history-consulting",
+      "title": "Community Oral History & Archiving",
+      "description": "Helping neighborhood groups, schools, and nonprofits structure interview projects from consent forms to final transcripts.",
+      "deliverables": [
+        "Interviewer training session",
+        "Recording kit checklist & consent templates",
+        "Cataloging & indexing workflow"
+      ],
+      "ctaLabel": "Discuss an Archive Project"
+    },
+    {
+      "id": "plain-language-field-guides",
+      "title": "Accessible Field Guides & Handbooks",
+      "description": "Translating operational know-how or trail data into clear, printable booklets and accessible web pages.",
+      "deliverables": [
+        "Field observation & user walkthroughs",
+        "Illustrated print-ready booklet layout",
+        "Screen-reader-friendly digital edition"
+      ],
+      "ctaLabel": "Start a Guide Collaboration"
+    }
+  ],
+  "interests": [
+    {
+      "id": "coptic-bookbinding",
+      "name": "Hand Bookbinding",
+      "category": "Craft",
+      "description": "Stitching open-spine linen field notebooks using reclaimed cardstock and waxed linen thread."
+    },
+    {
+      "id": "watershed-botany",
+      "name": "Riparian Botany & Sketching",
+      "category": "Outdoors",
+      "description": "Identifying native sedges, willows, and seasonal wildflowers along urban creek corridors."
+    },
+    {
+      "id": "small-batch-fermentation",
+      "name": "Seasonal Food Preservation",
+      "category": "Kitchen",
+      "description": "Experimenting with lacto-fermented vegetables, orchard vinegars, and herbal shrubs."
+    },
+    {
+      "id": "community-radio",
+      "name": "Low-Power Community Radio",
+      "category": "Media",
+      "description": "Producing occasional acoustic storytelling segments and local event announcements."
+    }
+  ],
+  "gallery": [
+    {
+      "id": "herbarium-leaf-pressing",
+      "title": "Autumn Herbarium Pressings",
+      "caption": "Mounted Oregon white oak and bigleaf maple specimens with collection locality notes.",
+      "date": "2025-10",
+      "image": {
+        "src": "/images/gallery/botanical-pressings.svg",
+        "alt": "Pressed autumn leaves mounted on archival herbarium paper",
+        "width": 600,
+        "height": 450
+      }
+    },
+    {
+      "id": "linen-coptic-notebooks",
+      "title": "Hand-Stitched Field Notebooks",
+      "caption": "Flat-opening coptic stitch bindings prepared for a weekend nature journaling workshop.",
+      "date": "2025-07",
+      "image": {
+        "src": "/images/gallery/community-bookbinding.svg",
+        "alt": "Hand-stitched linen notebooks with exposed coptic binding",
+        "width": 600,
+        "height": 450
+      }
+    },
+    {
+      "id": "creek-contour-sketchbook",
+      "title": "Watershed Contour Studies",
+      "caption": "Ink and watercolor wash observations from the upper crystal creek culvert restoration site.",
+      "date": "2025-05",
+      "image": {
+        "src": "/images/gallery/watershed-sketchbook.svg",
+        "alt": "Open field sketchbook showing creek contours and reed studies",
+        "width": 600,
+        "height": 450
+      }
+    },
+    {
+      "id": "tool-library-joinery",
+      "title": "Cedar Box Joinery Sample",
+      "caption": "Demonstration piece built for the neighborhood tool library's introductory hand-saw class.",
+      "date": "2024-12",
+      "image": {
+        "src": "/images/gallery/woodshop-joinery.svg",
+        "alt": "Cedar dovetail joint sample from neighborhood tool library class",
+        "width": 600,
+        "height": 450
+      }
+    }
+  ],
+  "articles": [
+    {
+      "slug": "how-we-set-up-a-neighborhood-seed-cabinet",
+      "title": "How We Set Up a Self-Serve Neighborhood Seed Cabinet",
+      "summary": "Practical lessons on drawer labels, moisture control, and seasonal volunteer rhythms from our first two years.",
+      "published": true,
+      "date": "2025-05-14",
+      "readingTime": "5 min read",
+      "tags": [
+        "Seed Library",
+        "Community Programs",
+        "How-To"
+      ],
+      "coverImage": {
+        "src": "/images/highlights/neighborhood-seed-library.svg",
+        "alt": "Neighborhood Seed Library wooden cabinet and labeled packets",
+        "width": 800,
+        "height": 500
+      },
+      "body": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Keep the Check-Out Process Frictionless"
+        },
+        {
+          "type": "paragraph",
+          "text": "When we visited other lending libraries before launching ours, the single biggest bottleneck was complicated sign-out sheets. We replaced paper ledgers with a simple tally counter and pre-stamped coin envelopes."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Three Supplies That Make a Difference"
+        },
+        {
+          "type": "list",
+          "style": "unordered",
+          "items": [
+            "Number 3 kraft coin envelopes with a pre-printed stamp for variety name, year, and neighborhood.",
+            "Silica gel packets tucked into the back of each wooden drawer to keep humidity steady.",
+            "A small clipboard for visitors to request varieties they hope to see next spring."
+          ]
+        },
+        {
+          "type": "quote",
+          "text": "Start with ten reliable varieties that grow well on a sunny porch, and let neighbors shape the collection from there.",
+          "attribution": "Field notes from Year 1"
+        }
+      ]
+    },
+    {
+      "slug": "preparing-for-an-oral-history-interview",
+      "title": "Preparing for a Calm Kitchen-Table Oral History Interview",
+      "summary": "A checklist for testing microphones, choosing visual prompts, and helping narrators feel at ease.",
+      "published": true,
+      "date": "2024-12-03",
+      "readingTime": "6 min read",
+      "tags": [
+        "Oral History",
+        "Interviewing",
+        "Audio"
+      ],
+      "coverImage": {
+        "src": "/images/highlights/oral-history-booth.svg",
+        "alt": "Portable recording setup with two microphones and interview prompt cards",
+        "width": 800,
+        "height": 500
+      },
+      "body": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Room Acoustics at the Kitchen Table"
+        },
+        {
+          "type": "paragraph",
+          "text": "Hard table surfaces bounce sound right back into tabletop microphones. Laying a folded woven tablecloth or wool scarf beneath the mic stands immediately softens reflections and removes the clatter of teacups."
+        },
+        {
+          "type": "list",
+          "style": "ordered",
+          "items": [
+            "Arrive fifteen minutes early so equipment setup finishes before the conversation begins.",
+            "Check refrigerator and window fan noise with headphones before pressing record.",
+            "Record thirty seconds of room tone at the end of the session to help with editing."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "designing-print-guides-for-rainy-field-walks",
+      "title": "Designing Pocket Field Guides That Survive a Rainy Walk",
+      "summary": "Typography, paper weight, and folding patterns that stay legible when carried in a coat pocket.",
+      "published": true,
+      "date": "2024-07-19",
+      "readingTime": "4 min read",
+      "tags": [
+        "Print Design",
+        "Accessibility",
+        "Field Guides"
+      ],
+      "coverImage": {
+        "src": "/images/highlights/accessible-trail-guide.svg",
+        "alt": "Topographic map and trail accessibility markers",
+        "width": 800,
+        "height": 500
+      },
+      "body": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Why Accordion Folds Beat Multi-Page Booklets Outdoors"
+        },
+        {
+          "type": "paragraph",
+          "text": "On a breezy trail, flipping through stapled pages with one hand while holding an umbrella or mobility cane is frustrating. A six-panel accordion fold lets walkers refold the map to the exact segment they are currently traversing."
+        }
+      ]
+    },
+    {
+      "slug": "draft-archival-tape-digitization",
+      "title": "Draft: Cassette Digitization Notes",
+      "summary": "Unpublished draft article used to test unpublished route filtering.",
+      "published": false,
+      "date": "2026-02-01",
+      "readingTime": "3 min read",
+      "tags": [
+        "Draft"
+      ],
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "This draft is unpublished and excluded from public routes and sitemaps."
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "exploreHighlightsCta": "Explore My Highlights",
+    "contactCta": "Contact Me",
+    "downloadResumeCta": "Download Resume (PDF)",
+    "allCategoriesFilter": "All",
+    "emptyHighlightsText": "No highlights match this category yet.",
+    "emptyArticlesText": "No journal entries are published right now.",
+    "openEmailAppButton": "Open email app",
+    "emailAppHelperText": "Clicking 'Open email app' opens your default mail client with a pre-filled draft. You review and send the message from your email app.",
+    "directEmailFallbackLabel": "Prefer to write directly? Email",
+    "sampleTestimonialsNotice": "Sample testimonials for template demonstration — replace with real reflections in portfolio.json."
+  }
+}

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" role="img" aria-label="Seasonal preservation jars and handwritten tasting log">
+  <rect width="800" height="500" fill="#f7f4ec" />
+  <rect x="80" y="70" width="640" height="360" rx="20" fill="#ffffff" stroke="#dfd8c8" stroke-width="3" />
+  <rect x="160" y="150" width="130" height="200" rx="24" fill="#e8b86d" opacity="0.85" />
+  <rect x="180" y="125" width="90" height="28" rx="6" fill="#594a3c" />
+  <rect x="335" y="150" width="130" height="200" rx="24" fill="#c96b4b" opacity="0.85" />
+  <rect x="355" y="125" width="90" height="28" rx="6" fill="#594a3c" />
+  <rect x="510" y="150" width="130" height="200" rx="24" fill="#6d8f72" opacity="0.85" />
+  <rect x="530" y="125" width="90" height="28" rx="6" fill="#594a3c" />
+</svg>

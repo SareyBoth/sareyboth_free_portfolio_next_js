@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" role="img" aria-label="Portable recording setup with two microphones and interview prompt cards">
+  <rect width="800" height="500" fill="#f2f4f8" />
+  <rect x="100" y="90" width="600" height="320" rx="18" fill="#ffffff" stroke="#cbd2e0" stroke-width="3" />
+  <rect x="210" y="150" width="44" height="86" rx="22" fill="#3c4f65" />
+  <line x1="232" y1="236" x2="232" y2="330" stroke="#3c4f65" stroke-width="8" />
+  <line x1="190" y1="330" x2="274" y2="330" stroke="#3c4f65" stroke-width="8" stroke-linecap="round" />
+  <rect x="350" y="210" width="240" height="120" rx="12" fill="#e6ebf2" />
+  <circle cx="410" cy="270" r="24" fill="#3c4f65" />
+  <circle cx="530" cy="270" r="24" fill="#3c4f65" />
+</svg>

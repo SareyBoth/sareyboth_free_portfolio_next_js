@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="SareyBoth — SareyBothPortfolio Template">
+  <rect width="1200" height="630" fill="#f8f6f2" />
+  <rect x="48" y="48" width="1104" height="534" rx="28" fill="#ffffff" stroke="#e4dfd7" stroke-width="2" />
+  <circle cx="1010" cy="160" r="140" fill="#eef1f6" />
+  <circle cx="940" cy="430" r="90" fill="#f3ebe2" />
+  <text x="116" y="210" font-family="system-ui, -apple-system, sans-serif" font-size="24" font-weight="600" fill="#435373" letter-spacing="2">SAREYBOTHPORTFOLIO TEMPLATE</text>
+  <text x="116" y="305" font-family="system-ui, -apple-system, sans-serif" font-size="68" font-weight="700" fill="#1c1e21">SareyBoth</text>
+  <text x="116" y="375" font-family="system-ui, -apple-system, sans-serif" font-size="32" font-weight="400" fill="#525866">Community Program Coordinator &amp; Archival Researcher</text>
+  <text x="116" y="465" font-family="system-ui, -apple-system, sans-serif" font-size="24" font-weight="500" fill="#6e7687">Highlights · Journey · Strengths · Journal</text>
+</svg>

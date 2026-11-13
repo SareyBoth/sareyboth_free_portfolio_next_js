@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" role="img" aria-label="Illustrated handbook and hand tools for community repair cafe">
+  <rect width="800" height="500" fill="#f8f1eb" />
+  <rect x="80" y="70" width="640" height="360" rx="20" fill="#ffffff" stroke="#e5d3c5" stroke-width="3" />
+  <rect x="140" y="120" width="220" height="260" rx="12" fill="#c26444" />
+  <rect x="165" y="150" width="170" height="36" rx="6" fill="#fdfaf7" />
+  <rect x="165" y="205" width="130" height="16" rx="4" fill="#f0d5c9" />
+  <rect x="430" y="135" width="220" height="230" rx="14" fill="#f5ebe4" />
+  <circle cx="540" cy="250" r="58" fill="none" stroke="#8a442d" stroke-width="10" stroke-dasharray="28 14" />
+  <circle cx="540" cy="250" r="22" fill="#8a442d" />
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" role="img" aria-label="Topographic map and trail accessibility markers">
+  <rect width="800" height="500" fill="#edf4f2" />
+  <rect x="70" y="60" width="660" height="380" rx="22" fill="#ffffff" stroke="#c3dad4" stroke-width="3" />
+  <path d="M120 350 Q260 220 400 290 T680 180" fill="none" stroke="#2d7a6e" stroke-width="8" stroke-dasharray="14 10" stroke-linecap="round" />
+  <circle cx="120" cy="350" r="14" fill="#2d7a6e" />
+  <circle cx="400" cy="290" r="14" fill="#c97a4b" />
+  <circle cx="680" cy="180" r="14" fill="#2d7a6e" />
+  <path d="M120 390 Q300 310 460 360 T680 280" fill="none" stroke="#a6cbc4" stroke-width="4" />
+</svg>

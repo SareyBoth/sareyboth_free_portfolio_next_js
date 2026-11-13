@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="600" height="450" role="img" aria-label="Pressed autumn leaves mounted on archival herbarium paper">
+  <rect width="600" height="450" fill="#f5f0e6" />
+  <rect x="60" y="40" width="480" height="370" rx="12" fill="#fffdf9" stroke="#d8cfc0" stroke-width="2" />
+  <path d="M300 330 L300 130" stroke="#6e553c" stroke-width="5" stroke-linecap="round" />
+  <path d="M300 220 C240 200 220 150 260 120 C300 140 300 190 300 220 Z" fill="#b86b43" />
+  <path d="M300 250 C360 230 380 180 340 150 C300 170 300 220 300 250 Z" fill="#c98850" />
+  <rect x="360" y="320" width="140" height="56" rx="4" fill="#f0eadf" />
+</svg>

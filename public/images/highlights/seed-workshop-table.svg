@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" role="img" aria-label="Seed sorting workshop table with glass jars and paper envelopes">
+  <rect width="800" height="500" fill="#f7f2eb" />
+  <rect x="70" y="100" width="660" height="300" rx="24" fill="#dfd3c3" />
+  <circle cx="220" cy="250" r="70" fill="#ffffff" stroke="#b8a894" stroke-width="4" />
+  <circle cx="220" cy="250" r="42" fill="#8b6b4a" />
+  <circle cx="400" cy="250" r="70" fill="#ffffff" stroke="#b8a894" stroke-width="4" />
+  <circle cx="400" cy="250" r="42" fill="#5a7d63" />
+  <rect x="520" y="180" width="140" height="140" rx="12" fill="#fbf9f5" stroke="#b8a894" stroke-width="3" />
+</svg>

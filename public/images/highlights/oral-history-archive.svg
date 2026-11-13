@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" role="img" aria-label="Audio waveform and archival index cards for the Riverfront Oral History project">
+  <rect width="800" height="500" fill="#eef1f6" />
+  <rect x="80" y="70" width="640" height="360" rx="20" fill="#ffffff" stroke="#d0d7e3" stroke-width="3" />
+  <circle cx="220" cy="250" r="84" fill="#3b4d6b" />
+  <circle cx="220" cy="250" r="32" fill="#eef1f6" />
+  <rect x="350" y="140" width="16" height="90" rx="8" fill="#3b4d6b" />
+  <rect x="382" y="110" width="16" height="150" rx="8" fill="#526a91" />
+  <rect x="414" y="155" width="16" height="60" rx="8" fill="#3b4d6b" />
+  <rect x="446" y="95" width="16" height="180" rx="8" fill="#6b84ad" />
+  <rect x="478" y="130" width="16" height="110" rx="8" fill="#3b4d6b" />
+  <rect x="510" y="145" width="16" height="80" rx="8" fill="#526a91" />
+  <rect x="542" y="115" width="16" height="140" rx="8" fill="#3b4d6b" />
+  <rect x="574" y="150" width="16" height="70" rx="8" fill="#6b84ad" />
+  <line x1="350" y1="330" x2="640" y2="330" stroke="#9aa8be" stroke-width="8" stroke-linecap="round" />
+  <line x1="350" y1="365" x2="560" y2="365" stroke="#c2cbd9" stroke-width="8" stroke-linecap="round" />
+</svg>

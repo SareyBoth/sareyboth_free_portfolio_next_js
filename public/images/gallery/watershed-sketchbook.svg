@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="600" height="450" role="img" aria-label="Open field sketchbook showing creek contours and reed studies">
+  <rect width="600" height="450" fill="#ebf2f0" />
+  <rect x="60" y="60" width="240" height="330" rx="8" fill="#ffffff" stroke="#c5d6d1" stroke-width="2" />
+  <rect x="300" y="60" width="240" height="330" rx="8" fill="#fafdfc" stroke="#c5d6d1" stroke-width="2" />
+  <path d="M100 300 Q180 180 260 240" fill="none" stroke="#3a7567" stroke-width="5" />
+  <path d="M340 280 Q420 140 500 220" fill="none" stroke="#3a7567" stroke-width="5" />
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="600" height="450" role="img" aria-label="Hand-stitched linen notebooks with exposed coptic binding">
+  <rect width="600" height="450" fill="#eef1f5" />
+  <rect x="90" y="90" width="420" height="80" rx="8" fill="#3c526b" />
+  <rect x="90" y="185" width="420" height="80" rx="8" fill="#6b839e" />
+  <rect x="90" y="280" width="420" height="80" rx="8" fill="#9c6b4e" />
+  <line x1="140" y1="90" x2="140" y2="360" stroke="#f5f0e6" stroke-width="6" stroke-dasharray="14 10" />
+  <line x1="460" y1="90" x2="460" y2="360" stroke="#f5f0e6" stroke-width="6" stroke-dasharray="14 10" />
+</svg>

@@ -1,0 +1,130 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "name": "openfolio-design-contract",
+  "version": "1.0.0",
+  "description": "Shared canonical design contract between Next.js and Nuxt implementations of Openfolio",
+  "defaults": {
+    "preset": "minimal",
+    "mode": "system",
+    "fontPreset": "sans",
+    "density": "comfortable",
+    "radius": "default"
+  },
+  "presets": {
+    "minimal": {
+      "light": {
+        "background": "#FAF9F6",
+        "surface": "#FFFFFF",
+        "text": "#202124",
+        "muted": "#62656D",
+        "border": "#DCDDDF",
+        "accent": "#4F46B8",
+        "accentForeground": "#FFFFFF"
+      },
+      "dark": {
+        "background": "#14151A",
+        "surface": "#1D1F26",
+        "text": "#F4F4F5",
+        "muted": "#B1B4BE",
+        "border": "#3C404B",
+        "accent": "#B7B1FF",
+        "accentForeground": "#191534"
+      }
+    },
+    "warm": {
+      "light": {
+        "background": "#FCF7F0",
+        "surface": "#FFFCF8",
+        "text": "#30251F",
+        "muted": "#746255",
+        "border": "#E2D5C7",
+        "accent": "#9F3D26",
+        "accentForeground": "#FFFFFF"
+      },
+      "dark": {
+        "background": "#1C1714",
+        "surface": "#28201B",
+        "text": "#FAF1E7",
+        "muted": "#C1AC99",
+        "border": "#4B3B30",
+        "accent": "#F2AA88",
+        "accentForeground": "#31190E"
+      }
+    },
+    "modern": {
+      "light": {
+        "background": "#F6F8FA",
+        "surface": "#FFFFFF",
+        "text": "#17252B",
+        "muted": "#55656D",
+        "border": "#D4DFE4",
+        "accent": "#096B64",
+        "accentForeground": "#FFFFFF"
+      },
+      "dark": {
+        "background": "#111B20",
+        "surface": "#1A272D",
+        "text": "#ECF5F5",
+        "muted": "#AAC0C5",
+        "border": "#36505A",
+        "accent": "#73D8CD",
+        "accentForeground": "#082B27"
+      }
+    }
+  },
+  "typography": {
+    "fonts": {
+      "sans": "Arial, \"Helvetica Neue\", sans-serif",
+      "serif": "Georgia, \"Times New Roman\", serif"
+    },
+    "sizes": {
+      "body": "16px",
+      "bodyLineHeight": "1.6",
+      "adminBody": "14px",
+      "adminBodyLineHeight": "1.5",
+      "pageTitleDesktop": "32px",
+      "pageTitleMobile": "26px",
+      "fieldLabel": "14px",
+      "fieldLabelWeight": "500"
+    }
+  },
+  "spacingScalePx": [4, 8, 12, 16, 24, 32, 48, 64, 96],
+  "radii": {
+    "compact": {
+      "card": "6px",
+      "control": "4px"
+    },
+    "default": {
+      "card": "16px",
+      "control": "10px"
+    },
+    "rounded": {
+      "card": "24px",
+      "control": "14px"
+    }
+  },
+  "dimensions": {
+    "controlHeight": "44px",
+    "borderWidth": "1px",
+    "publicContentMaxWidth": "1160px",
+    "dashboard": {
+      "sidebarWidth": "248px",
+      "topBarHeight": "64px",
+      "mainPaddingDesktop": "32px",
+      "mainPaddingMobile": "16px",
+      "formContentMaxWidth": "960px",
+      "tableHeaderHeight": "44px",
+      "tableRowMinHeight": "56px"
+    },
+    "icons": {
+      "controls": "18px",
+      "navigation": "20px"
+    }
+  },
+  "breakpoints": {
+    "mobile": "640px",
+    "tablet": "768px",
+    "desktop": "1024px",
+    "wide": "1280px"
+  }
+}
